@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[
+    {"name":"object","order":1,"path":"folders/object.yy",},
+    {"name":"room","order":4,"path":"folders/room.yy",},
+    {"name":"script","order":3,"path":"folders/script.yy",},
+    {"name":"sprite","order":2,"path":"folders/sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_cursor","order":1,"path":"objects/obj_cursor/obj_cursor.yy",},
+    {"name":"spr_cardUP","order":4,"path":"sprites/spr_cardUP/spr_cardUP.yy",},
+    {"name":"spr_cursor","order":1,"path":"sprites/spr_cursor/spr_cursor.yy",},
+  ],
+}
